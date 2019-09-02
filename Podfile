@@ -4,6 +4,6 @@ use_frameworks!
 
 target 'MVVM_Demo' do
 
-    pod 'ReactiveCocoa', '~> 2.5'
+    pod 'ReactiveObjC', '~> 3.1.0'
 
 end
